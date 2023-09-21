@@ -1,8 +1,6 @@
-- 👤 Hello I'm MrSheepDev ! Also known as Aneko
-- 🧑‍💻 I'm a belgian computer science student
-- 📖 I'm currently studying at Henallux IESN
-- ✍️ Also have digital drawing skills and learning webdesign
-- 👀 Contactable on twitter @MrStelakSheep, and via mail mrsheepdev@gmail.com
+Ayo how did you find this accound bro ?
+
+Used this account mainly for my CS graduate.
 
 <!---
 MrSheepDev/MrSheepDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
